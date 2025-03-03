@@ -85,13 +85,13 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'technicalWritingPortfolioSidebar',
             position: 'left',
             label: 'Technical writing',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/ZiyadWrites/',
             label: 'GitHub',
             position: 'right',
           },

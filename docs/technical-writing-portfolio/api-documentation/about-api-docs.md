@@ -2,7 +2,9 @@
 sidebar_position: 4
 ---
 
-Good API documentation must contain the following elements:
+## Writing good API reference documentation
+
+To produce high-quality reference API documentation, it is best practice to adhere to OPEN API standards and ensure that the documentation includes the following key elements:
 
 - ## Resource description  
     Ensure that the description is action-oriented and provides a concise summary of 1–3 sentences, addressing key details efficiently.

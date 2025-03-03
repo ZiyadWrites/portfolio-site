@@ -2,9 +2,13 @@
 sidebar_position: 4
 ---
 
-This is an instructional guide for a fictional software product called "Omnichat." Although this is based on a real product I documented, I have altered certain details to avoid sharing confidential or proprietary information.
 
 # Connecting WhatsApp Business with OmniChat
+
+:::info
+
+This is an instructional guide for a fictional software product called "Omnichat." Although this is based on a real product I documented, I have altered certain details to avoid sharing confidential or proprietary information.
+:::
 
 Integrating your WhatsApp Business account with Omnichat CPaaS (Cloud Platform as a service) allows you to engage with your customers more efficiently through one of the most popular messaging platforms. By connecting your account, you can streamline your communications, automate messages, and manage conversations all in one place, helping you save time and build stronger relationships with your audience.
 
@@ -24,8 +28,11 @@ Now that you're ready, you can begin creating a business profile in WhatsApp tha
 2. Select the **Connect Whatsapp** button.
 3. Select the **Get Started** button. 
   
-      
-> **Important:** Read the WhatsApp Business Terms of Service, the Meta Business Terms of Service, and Omnichat's Privacy Policy and Terms.
+:::tip
+
+Read the WhatsApp Business Terms of Service, the Meta Business Terms of Service, and Omnichat's Privacy Policy and Terms.
+
+:::
 
 ### 1. Create a business portfolio
    
