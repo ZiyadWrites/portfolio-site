@@ -7,7 +7,7 @@ sidebar_position: 6
 The Pet Store API simulates the operations of a pet store and the management of pet-related data. In this reference documentation, I adhere to OpenAPI Standards to detail the CRUD operations associated with this API, providing clear and concise guidelines for each endpoint.
 
  ## Pets  
-The Pet object represents a pet in the store.The object includes details such as the pet's unique ID, name, category, associated tags, status, and photo. This resource facilitates the management of pet-related data within the pet store system.
+The Pet object represents a pet in the store. The object includes details such as the pet's unique ID, name, category, associated tags, status, and photo. This resource facilitates the management of pet-related data within the pet store system.
 
 ## Endpoint and methods
 **POST**/pet  
