@@ -26,7 +26,7 @@ const config = {
   projectName: 'portfolio-site', // Usually your repo name.
   deploymentBranch: "gh-pages",
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -89,7 +89,7 @@ const config = {
             position: 'left',
             label: 'Technical writing',
           },
-           {to: '/blog', label: 'Blog', position: 'left'},
+           //{to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/ZiyadWrites/',
             label: 'GitHub',
