@@ -3,9 +3,12 @@ sidebar_position: 3
 ---
 
 # Technical Summary
-## About
 
-This is a technical summary of an architectural drawing I created as part of a job application.
+:::info
+
+This document provides a technical summary of an architectural drawing I developed for a job application. The assignment required a concise summary, limited to one page. To maintain confidentiality, the drawing itself has been omitted to protect the client's information.
+
+:::
 
 ## Master Delivery Dataset (MADDS) architecture
 The Master Delivery Dataset (MADDS) processes, transforms and stores advertising delivery data and metadata from multiple sources. It follows a structured data pipeline with five key stages: Sources, Extraction, Transformation, Loading and Querying.

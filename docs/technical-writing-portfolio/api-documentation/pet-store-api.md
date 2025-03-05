@@ -4,8 +4,7 @@ sidebar_position: 6
 
 # Pet Store API reference documentation
 
-The Pet Store API simulates the operations of a pet store and the management of pet-related data. In this reference documentation, I adhere to OpenAPI Standards to detail the CRUD operations associated with this API, providing clear and concise guidelines for each endpoint.
-
+The Pet Store API simulates the operations of a pet store and the management of pet-related data. The example below show an API call within API reference documentation.
  ## Pets  
 The Pet object represents a pet in the store. The object includes details such as the pet's unique ID, name, category, associated tags, status, and photo. This resource facilitates the management of pet-related data within the pet store system.
 
@@ -49,8 +48,8 @@ The following example illustrates a request formatted in JSON:
 }
 ```
   
-## Response example and schema 
-The reponse is reurned in Curl format: 
+## Response body 
+The reponse is returned in Curl format: 
 ```curl -X 'POST' \
   'https://petstore.swagger.io/v2/pet' \
   -H 'accept: application/json' \
@@ -73,4 +72,67 @@ The reponse is reurned in Curl format:
   ],
   "status": "available"
 }'
+```
+
+## Schema
+The response schema defines the structure of the JSON object returned when a new pet is added to the store, detailing the pet's id, category (with required id and name), name, photoUrls, tags, and status.
+```
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "integer",
+      "description": "Unique identifier for the pet."
+    },
+    "category": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer",
+          "description": "Unique identifier for the pet's category."
+        },
+        "name": {
+          "type": "string",
+          "description": "Name of the pet's category."
+        }
+      },
+      "required": ["id", "name"]
+    },
+    "name": {
+      "type": "string",
+      "description": "Name of the pet."
+    },
+    "photoUrls": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "List of URLs pointing to images of the pet."
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "description": "Unique identifier for the tag."
+          },
+          "name": {
+            "type": "string",
+            "description": "Name of the tag."
+          }
+        },
+        "required": ["id", "name"]
+      },
+      "description": "List of tags associated with the pet."
+    },
+    "status": {
+      "type": "string",
+      "enum": ["available", "pending", "sold"],
+      "description": "Availability status of the pet."
+    }
+  },
+  "required": ["id", "category", "name", "photoUrls", "status"]
+}
 ```
