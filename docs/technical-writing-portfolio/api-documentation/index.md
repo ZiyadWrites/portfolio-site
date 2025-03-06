@@ -5,7 +5,10 @@ slug: /technical-writing-portfolio
 
 # Technical Writing Portfolio
 
-Welcome to my technical writing portfolio. Explore the samples and projects below:
+Welcome to my technical writing portfolio. The documents featured here showcase my ability to create clear, user-focused content across various technical domains. Each section demonstrates different aspects of my writing skills and approach to documentation.
+
+# My Writing Process  
+- [My Technical Writing Approach](technical-writing-portfolio/writing-process/my-technical-writing-approach)
 
 # User Guides
 

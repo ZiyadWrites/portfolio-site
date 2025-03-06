@@ -32,6 +32,13 @@ const sidebars = {
       items: [
         {
           type: 'category',
+          label: 'My Writing Process',
+          items: [
+            'technical-writing-portfolio/writing-process/my-technical-writing-approach',
+          ],
+        },
+        {
+          type: 'category',
           label: 'User Guide Samples',
           items: [
             //'technical-writing-portfolio/user-guide-samples/everytrack-concept-sample',
