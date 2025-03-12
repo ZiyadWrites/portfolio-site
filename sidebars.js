@@ -44,6 +44,7 @@ const sidebars = {
             //'technical-writing-portfolio/user-guide-samples/everytrack-concept-sample',
             'technical-writing-portfolio/user-guide-samples/everytrack-user-guide-task-based',
             'technical-writing-portfolio/user-guide-samples/connecting-whatsapp-to-omnichat',
+            'technical-writing-portfolio/user-guide-samples/smartcontract-visibility-on-etherscan'
           ],
         },
         {

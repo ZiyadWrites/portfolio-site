@@ -36,7 +36,7 @@ Without the ABI, neither Etherscan nor any other application can understand how 
 5. Click "Verify and Publish"
 Once verified, the "Read Contract" and "Write Contract" tabs will appear, allowing direct interaction with your contract through the block explorer interface.
 
-Alternative: If You Can't Verify
+### Alternative: If You Can't Verify  
 If verification isn't possible, you can still interact with your contract using:
 The ABI and a tool like Remix
 - A frontend application that includes the ABI
