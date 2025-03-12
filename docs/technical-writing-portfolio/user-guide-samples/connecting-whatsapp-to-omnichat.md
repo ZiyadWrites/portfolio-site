@@ -17,7 +17,7 @@ Integrating your WhatsApp Business account with Omnichat CPaaS (Cloud Platform a
 Things you need to know:
 
 - Ensure your mobile number can receive SMS.  
-- Activate the Pay As You Go SMS payment plan on your Dotdigital account.  
+- Activate the Pay As You Go SMS payment plan on your Omnichat account.  
 - You need a Facebook personal profile. 
 
 ## Integrating WhatsApp Business with Omnichat CPaaS

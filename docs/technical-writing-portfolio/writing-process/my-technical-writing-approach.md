@@ -13,10 +13,10 @@ Before I start writing, I usually spend time understanding what the subject matt
 I approach each document by defining a clear structure for the content. This approach allows me to organize information logically and determine what is essential for each section. With a well defined structure I can plan content for beginners seeking guidance or more advanced users who are looking for specific details.
 
 ## User-focused Content
-My writing is focused is on helping the user accomplish their intended goals. This is done by creating actionable steps with specific outcomes, and by using relevant examples to guide the reader into translating information into completed tasks.
+My writing is focused on helping the user accomplish their intended goals. This is done by creating actionable steps with specific outcomes, and by using relevant examples to guide the reader into translating information into completed tasks.
 
 ## Continuous improvement
-Documentation is an important resource that must evolve and improve with constant feedback and testing. After I drafting a document I look for input from subject matter experts and actual users. This iterative process ensures that the documentation is relevant, accurate and helpful to the user.
+Documentation is an important resource that must evolve and improve with constant feedback and testing. After drafting a document, I look for input from subject matter experts and actual users. This iterative process ensures that the documentation is relevant, accurate and helpful to the user.
 
 This process of research, organization, writing to achieve a specific goal, and consistent refinement, allows me to create content that bridges the gap between technical jargon and the people who use it. 
 
