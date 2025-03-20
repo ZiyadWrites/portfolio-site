@@ -14,7 +14,7 @@ Welcome to my technical writing portfolio. The documents featured here showcase 
 
 - [Every Track - User Guide](technical-writing-portfolio/user-guide-samples/everytrack-user-guide-task-based)  
 - [Connecting Whatsapp Business to Omnichat - How to Guide](technical-writing-portfolio/user-guide-samples/connecting-whatsapp-to-omnichat)
-- [Why Your Smart Contract Functions Aren't Visible on Etherscan - Tutorial](technical-writing-portfolio/user-guide-samples/smartcontract-visibility-on-etherscan)
+- [Why your smart contracts are not visible on Etherscan - Tutorial](technical-writing-portfolio/user-guide-samples/smartcontract-visibility-on-etherscan)
 
 
 # Technical Summaries
